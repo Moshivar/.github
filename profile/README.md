@@ -8,7 +8,7 @@ Welcome to **Moshivar**! We are focused on creating innovative software solution
 - **Unique Software Solutions**: Developing applications to fill unmet needs and provide better alternatives.
 - **Collaborative Projects**: Working together to build and refine useful, functional software.
 
-## Main Project
+## Project Hub
 
 Check out our main projects page:
 ### **[```The Project Hub```](https://github.com/orgs/Moshivar/projects/1)**
