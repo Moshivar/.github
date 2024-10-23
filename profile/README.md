@@ -12,7 +12,7 @@ Welcome to **Moshivar**! We are focused on creating innovative software solution
 
 Check out our main projects page:
 ### **[```> The Project Hub <```](https://github.com/orgs/Moshivar/projects/1)**
-which contains the essential details and overviews of the various projects we are working at the moment.
+which contains the essential details and overviews of the various projects we are working on at the moment.
 <br><br>
 ##
 Stay tuned as we continue to build and release exciting new projects!
